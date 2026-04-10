@@ -23,13 +23,13 @@ MUSESCORE_PATH = r"C:\Program Files\MuseScore 4\bin\MuseScore4.exe"
 Usage
 1. Clone the repo
 
-git clone https://github.com/yourusername/auto-transpose.git
+git clone https://github.com/jzjzzzzzzz/importMSCX.git
 
 cd auto-transpose
 
 2. Run the script
 
-python transpose.py
+python importMSCX.py
 
 3. Input
 
@@ -54,14 +54,6 @@ TPC (note spelling)
 Key signature
 Repack back into .mscz
 Export via MuseScore (optional PDF)
-
-Supported Transpositions
-
-From | To | Shift
-Bb | C | +2
-F | Eb | -2
-C | D | +2
-Eb | F | +2
 
 Notes
 
