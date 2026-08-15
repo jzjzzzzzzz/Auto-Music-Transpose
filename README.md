@@ -1,3 +1,14 @@
+# Auto Music Transpose — archived source repository
+
+> [!IMPORTANT]
+> **Archived on 2026-08-15.** Maintained development has moved to
+> [Music Score Toolkit](https://github.com/jzjzzzzzzz/music-score-toolkit).
+> This repository remains available as a read-only historical record with its
+> original commits, sample score, stars, and issues. See the
+> [migration guide](https://github.com/jzjzzzzzzz/music-score-toolkit/blob/main/MIGRATION.md).
+
+---
+
 Auto Transpose (MuseScore MSCZ Tool)
 A Python tool that automatically transposes MuseScore .mscz files while preserving musical structure, including rhythm, rests, chords, and notation spelling.
 It also exports the result directly to MusicXML / MSCZ and PDF via MuseScore.
